@@ -7,10 +7,10 @@ This repository is from a course on Udemy, [Machine Learning A-Z™](https://www
 1. [Data Preprocessing](https://github.com/HippoEug/MachineLearning/tree/master/DataPreprocessing)
 2. [Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression)
 
-    i. [Simple Linear Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/SimpleLinearRegression)
+    1. [Simple Linear Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/SimpleLinearRegression)
     
-    ii. [Multiple Linear Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/MultipleLinearRegression)
+    2. [Multiple Linear Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/MultipleLinearRegression)
     
-    iii. [Polynomial Regression]()
+    3. [Polynomial Regression]()
     
-    iv. [Support Vector Regression]()
+    4. [Support Vector Regression]()
