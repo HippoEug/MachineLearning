@@ -1,7 +1,9 @@
 # MachineLearning
 
 ## About
-This repository is from a course on Udemy, [Machine Learning A-Z™](https://www.udemy.com/machinelearning/).
+Udemy Course: [Machine Learning A-Z™](https://www.udemy.com/machinelearning/)
+
+Supporting Slides: [Machine Learning - Google Slides](https://docs.google.com/presentation/d/1Q0yDF2-DcekFf7RLrJy6impnsXEff4YrWP-9afUhiBg/edit#slide=id.p)
 
 ## Table of Contents
 1. [Data Preprocessing](https://github.com/HippoEug/MachineLearning/tree/master/DataPreprocessing)
@@ -11,6 +13,6 @@ This repository is from a course on Udemy, [Machine Learning A-Z™](https://www
     
     2. [Multiple Linear Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/MultipleLinearRegression)
     
-    3. [Polynomial Regression]()
+    3. [Polynomial Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/PolynomialRegression)
     
-    4. [Support Vector Regression]()
+    4. [Support Vector Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/DecisionTreeAlgorithm)
