@@ -16,3 +16,5 @@ Supporting Slides: [Machine Learning - Google Slides](https://docs.google.com/pr
     3. [Polynomial Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/PolynomialRegression)
     
     4. [Support Vector Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/DecisionTreeAlgorithm)
+    
+    5. [Decision Tree Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/DecisionTreeRegression)
