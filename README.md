@@ -19,7 +19,7 @@ Supporting Slides: [Machine Learning - Google Slides](https://docs.google.com/pr
     
     5. [Decision Tree Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/DecisionTreeRegression)
     
-    6. [Random Forest Regression]()
+    6. [Random Forest Regression](https://github.com/HippoEug/MachineLearning/tree/master/Regression/RandomForestRegression)
     
 3. [Classification]()
 
